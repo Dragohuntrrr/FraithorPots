@@ -13,7 +13,7 @@ public class FileBasics {
 
     List<FILETYPE> types = new ArrayList<>();
 
-    void load() {
+    public void load() {
         types.clear();
         for (FILETYPE type : FILETYPE.values()) {
             type.load();
