@@ -1,0 +1,13 @@
+##All messages can be configured here:
+
+prefix: '&4[FraithorPots]' ##Use --none for no prefix
+
+Help:
+  Prefix: '&e&m-----&6&l FraithorPots &8| Help &e&m-----'
+  Main: ' &7- &e/fp &7- Shows this list'
+  Help: ' &7- &e/fp help &7- Shows help list'
+  Give: ' &7- &e/fp give <POTION> <PLAYER>(optional) &7- Give''s the specified potion'
+  List: ' &7- &e/fp list &7- List available potions'
+
+Errors:
+  InvalidPotion: '&cInvalid potion! &7- Use /fp list to view available potions'

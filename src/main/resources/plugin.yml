@@ -1,0 +1,15 @@
+name: FraithorPots
+
+main: me.Fraithor.FraithorPots.FraithorPots
+
+version: 1.0.0
+
+authors:
+  - Fraithor
+  - RonanCraft
+
+commands:
+  fraithorpots:
+    description: Main command
+    aliases:
+      - fp
